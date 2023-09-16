@@ -1,2 +1,3 @@
 # alternative-scroll
-Html/Css/Js
+
+With only Html, Css, Js + GSAP ScrollTrigger & GSAP ScrollSmoother(libs)
